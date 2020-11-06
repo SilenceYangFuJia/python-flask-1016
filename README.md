@@ -11,7 +11,8 @@
 - README.md - 本文件。项目概述及一些说明
 - Dockerfile - 用以自动构建 Docker 镜像的脚本
 - requirements.txt - 依赖包文件
-- app.py - 主 Flask 服务器端源代码
+- app.py - 主 Flask 服务器端源代码i
+- test.py - 没有此文件test
 
 ## 快速开始
 
